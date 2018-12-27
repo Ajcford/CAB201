@@ -1,5 +1,5 @@
 # CAB201
-Fancy snakes and ladders game in C#
+Fancy snakes and ladders game in C#. 
 Developed in 2018 SEM2 with partner Kalebh
 
 For GUI version:
